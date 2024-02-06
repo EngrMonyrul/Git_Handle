@@ -37,3 +37,9 @@ git commit -m "message"
 ```
 git config user.email
 ```
+
+**` Guide 07 ` Git Config Email Change**
+>Replace the below email with yours
+```
+git config user.email "engrmonirulislam513@gmail.com"
+```
