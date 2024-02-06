@@ -8,8 +8,11 @@ git clone https://github.com.....
 ```
 
 **Git Change User Email Globally and Locally**
->Replace the below email with your own
+>Replace the below email with your own (Locally)
 ```
 git config user.email engrmonirulislam513@gmail.com
 ```
-
+>Replace the below email with your own (Globally)
+```
+git config --global user.email engrmonirulislam513@gmail.com
+```
