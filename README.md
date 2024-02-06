@@ -49,3 +49,21 @@ git remote add origin https://github.com/cameronmcnz/example-website.git
 ```
 git push -u -f origin master
 ```
+
+**` Guide 09 ` Git Create Branch**
+>Replace the below monirul_dev with your branch name
+```
+git branch monirul_dev
+```
+
+**` Guide 10 ` Git Checkout Branch**
+>Replace the below monirul_dev with your branch name
+```
+git checkout monirul_dev
+```
+
+**` Guide 11 ` Git Create and Checkout Branch**
+>Replace the below monirul_dev with your branch name
+```
+git checkout -b monirul_dev
+```
