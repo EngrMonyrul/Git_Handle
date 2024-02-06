@@ -16,3 +16,19 @@ git config user.email engrmonirulislam513@gmail.com
 ```
 git config --global user.email engrmonirulislam513@gmail.com
 ```
+
+**` Guide 03 ` Git Init Project**
+```
+git init
+```
+
+**` Guide 04 ` Git Add All In Project**
+```
+git add .
+```
+
+**` Guide 05 ` Git Commit Project**
+>Replace the message below with your commit message
+```
+git commit -m "message"
+```
