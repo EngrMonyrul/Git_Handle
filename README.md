@@ -38,8 +38,8 @@ git commit -m "message"
 git config user.email
 ```
 
-**` Guide 07 ` Git Config Email Change**
->Replace the below email with yours
+**` Guide 07 ` Git Remote Add Origin**
+>Replace the below git repo link with yours when you want to add in origin
 ```
-git config user.email "engrmonirulislam513@gmail.com"
+git remote add origin https://github.com/cameronmcnz/example-website.git
 ```
