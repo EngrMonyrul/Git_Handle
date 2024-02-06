@@ -43,3 +43,9 @@ git config user.email
 ```
 git remote add origin https://github.com/cameronmcnz/example-website.git
 ```
+
+**` Guide 07 ` Git Push Code In Branch**
+>Replace the below master with your branch
+```
+git push -u -f origin master
+```
