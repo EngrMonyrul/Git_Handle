@@ -1,2 +1,4 @@
-# Git_Handle
-Just adding some important command to handle the git or github
+# Git Handle From Terminal
+
+## Terminal
+
