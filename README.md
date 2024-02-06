@@ -67,3 +67,13 @@ git checkout monirul_dev
 ```
 git checkout -b monirul_dev
 ```
+
+**` Guide 12 ` Git Terminal Clear**
+>Method 1
+```
+cls
+```
+>Method 2
+```
+clear
+```
