@@ -32,3 +32,8 @@ git add .
 ```
 git commit -m "message"
 ```
+
+**` Guide 06 ` Git Config Email Check **
+```
+git config user.email
+```
